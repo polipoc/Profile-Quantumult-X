@@ -1,6 +1,7 @@
 # > Microsoft
 USER-AGENT,OneDrive*,Microsoft
 HOST-KEYWORD,onedrive,Microsoft
+HOST-KEYWORD,bing,Microsoft
 HOST-SUFFIX,azure.com,Microsoft
 HOST-SUFFIX,fabric.io,Microsoft
 HOST-SUFFIX,files.1drv.com,Microsoft
