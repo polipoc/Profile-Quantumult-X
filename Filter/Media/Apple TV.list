@@ -1,0 +1,4 @@
+# > Apple TV
+HOST,np-edge.itunes.apple.com,Apple TV
+HOST,play-edge.itunes.apple.com,Apple TV
+HOST-SUFFIX,tv.apple.com,Apple TV
