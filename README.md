@@ -1,3 +1,3 @@
-# Quantumult X 过滤规则及图标
+# Quantumult X ruleset and icons
 
-所有过滤规则和图标来源于其他项目，不会同步更新。
+All filter rules and icons are derived from other projects and will not be updated simultaneously.
