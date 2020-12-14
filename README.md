@@ -1,1 +1,3 @@
-# Profile-Quantumult-X
+# Quantumult X 过滤规则及图标
+
+所有过滤规则和图标来源于其他项目，不会同步更新。
